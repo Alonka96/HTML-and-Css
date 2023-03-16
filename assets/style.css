@@ -1,0 +1,23 @@
+@import url(./reset.css);
+
+header {
+  width: 100vw;
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3%;
+
+}
+header h1{
+  font-size: 36px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 60px;
+
+}
+header p{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 15px;
+  margin-top: 1%;
+}
